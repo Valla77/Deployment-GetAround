@@ -1,0 +1,13 @@
+fastapi 
+uvicorn[standard]
+pydantic 
+pandas 
+gunicorn 
+boto3
+scikit-learn
+numpy
+mlflow
+cloudpickle
+
+
+

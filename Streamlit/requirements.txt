@@ -1,0 +1,13 @@
+streamlit 
+pandas  
+openpyxl
+matplotlib 
+seaborn 
+plotly
+altair
+numpy
+lime
+dill
+streamlit-aggrid
+streamlit-echarts
+requests
