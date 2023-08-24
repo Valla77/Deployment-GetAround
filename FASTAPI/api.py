@@ -77,29 +77,3 @@ async def predict(cars: List[Car]):
 
 if __name__=="__main__":
     uvicorn.run(app, host="0.0.0.0", port=80, debug=True, reload=True) 
-
-    # Redirect automatically to /docs (without showing this endpoint in /docs)
-# @app.get("/", include_in_schema=False)
-# async def docs_redirect():
-#     return RedirectResponse(url='/docs')
-
-# # Make predictions
-# @app.post("/predict", tags=["Predictions"])
-# async def predict(cars: List[Car]):
-#     # clean unused memory
-#     gc.collect(generation=2)
-
-#     # Read input data
-#     car_features = pd.DataFrame(jsonable_encoder(cars))
-
-#     # Load model as a PyFuncModel.
-#     logged_model = 'runs:/e7a29c0aa6db4302b9a75bb16193ae82/model'
-#     loaded_model = mlflow.pyfunc.load_model(logged_model)
-
-#     # Predict and format response
-#     prediction = loaded_model.predict(car_features)
-#     response = {"prediction": prediction.tolist()}
-#     return response
-
-# if __name__=="__main__":
-#     uvicorn.run(app, host="0.0.0.0", port=4000, debug=True, reload=True)
