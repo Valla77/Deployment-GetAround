@@ -41,7 +41,7 @@ st.markdown(
     "- The **scope** of the threshold's application (whether it should be applied to all cars, 'mobile'* or only to 'Connect'* cars)."
 )
 st.caption("_\* 'Connect': the driver doesn’t meet the owner and opens the car with his smartphone_")
-st.caption("_\* 'Mobile': rental agreement on native apps: driver and owner meet and both sign the rental agreement on the owner’s smartphone")
+st.caption("_\* 'Mobile': rental agreement on native apps: driver and owner meet and both sign the rental agreement on the owner’s smartphone_")
 
 # Set title and markdown 
 st.title("Getaround Analysis on Delays ⏱")
