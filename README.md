@@ -30,5 +30,4 @@ Checkout the project presentation : [Video Presentation](https://acsts-getaround
 [Web API for car rental price predictions](https://getaround-fastapi-val-189215b0cd0a.herokuapp.com/)
 
 Author
-
 Valérie Muthiani
