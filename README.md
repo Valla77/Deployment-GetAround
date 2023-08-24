@@ -1,10 +1,12 @@
+![Your Logo]('GetAround_logo.png')
+
 
 # GetAround deployment project - Delay analysis and car rental price prediction
 
 This project, along with several others, has been presented as part of my certification process for the Jedha Data Fullstack program.
 
 Video Presentation
-Checkout the project presentation [here](https://acsts-getaround-delay-analysis.herokuapp.com/)
+Checkout the project presentation [Video Presentation](https://acsts-getaround-delay-analysis.herokuapp.com/)
 
 Goal of the project
 The goal of this project is to develop and deploy several online apps for data analysis, machine learning training and inference for GetAround.
