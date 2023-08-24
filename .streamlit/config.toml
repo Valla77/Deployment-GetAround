@@ -7,7 +7,7 @@ serverAddress = '0.0.0.0'
 primaryColor = '#7792E3'
 
 # Background color for the main content area
-backgroundColor = '#fff8ec'
+backgroundColor = '#FFDCA0'
 
 # Background color for sidebar and most interactive widgets
 secondaryBackgroundColor = '#e9ae61'
