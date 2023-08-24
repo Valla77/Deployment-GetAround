@@ -65,7 +65,7 @@ async def predict(cars: List[Car]):
     car_features = pd.DataFrame(jsonable_encoder(cars))
 
     # Log model from mlflow
-    logged_model = 'runs:/99e02d56d67048c3b50599aa24da22c6/model'
+    logged_model = 'runs:/aedc33f42d3146ffb71e227cfeb3ac4b/model'
 
     # Load model as a PyFuncModel.
     loaded_model = mlflow.pyfunc.load_model(logged_model)
