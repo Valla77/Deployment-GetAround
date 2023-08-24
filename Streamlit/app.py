@@ -37,15 +37,10 @@ st.markdown("---")
 
 st.markdown("""
     The concept is straightforward, yet regrettably, there are instances where drivers arrive late for checkouts. Such scenarios can pose challenges, particularly if there's a subsequent rental scheduled immediately after. Presented below are data-driven insights to empower you in making informed choices regarding the optimal interval between successive car rentals.  👇
-            
-""")
-
-st.markdown("Sometimes, there are instances where users who have rented a car on GetAround arrive late for their check-out, which can disrupt the subsequent rental of the same vehicle and negatively affect the overall service quality and customer satisfaction. 🚘⏱  \n" \
-    "To address this issue, one possible solution is to introduce a minimum time gap between two rentals. In other words, if the requested check-in or check-out times are too close to an already booked rental, the car would not be displayed in the search results. \n" \
-    "However, implementing such a minimum time gap would have financial implications for both GetAround and car owners. Therefore, the purpose of this analysis is to provide insights that can aid in the decision-making process regarding the following factors: \n" \
     "- The **threshold** (the minimum time gap required between two rentals) \n" \
-    "- The **scope** of the threshold's application (whether it should be applied to all cars or only to 'Connect'* cars).")
-st.caption("_\* 'Connect cars': the driver doesn’t meet the owner and opens the car with his smartphone_")
+    "- The **scope** of the threshold's application (whether it should be applied to all cars, mobile or only to 'Connect'* cars)."
+""")
+st.caption("_\* 'Connect cars': the driver doesn’t meet the owner and opens the car with his smartphone_   _\* '📱 Mobile': rental agreement on native apps: driver and owner meet and both sign the rental agreement on the owner’s smartphone")
 
 
 # Set title and markdown 
