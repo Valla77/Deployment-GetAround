@@ -1,4 +1,4 @@
-![Your Logo]('GetAround_logo.png')
+![Logo]('GetAround_logo.png')
 
 
 # GetAround deployment project - Delay analysis and car rental price prediction
