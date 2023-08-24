@@ -376,4 +376,4 @@ with st.form("Threshhold"):
         """)
 
 st.markdown("---")
-st.markdown("made by [Valerie MUTHIANI (Github : Valla77)](https://github.com/Valla77)")
+st.markdown("Made by [Valerie MUTHIANI (Github : Valla77)](https://github.com/Valla77)")
