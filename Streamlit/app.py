@@ -36,7 +36,7 @@ st.markdown("---")
 
 
 st.markdown("""
-    The concept is straightforward, yet regrettably, there are instances where drivers arrive late for checkouts. Such scenarios can pose challenges, particularly if there's a subsequent rental scheduled immediately after. Presented below are data-driven insights to empower you in making informed choices regarding the optimal interval between successive car rentals.  👇
+    The concept is straightforward, yet regrettably, there are instances where drivers arrive late for checkouts. Such scenarios can pose challenges, particularly if there's a subsequent rental scheduled immediately after. Presented below are data-driven insights to empower you in making informed choices regarding the optimal interval between successive car rentals.  👇 \n" \
     "- The **threshold** (the minimum time gap required between two rentals) \n" \
     "- The **scope** of the threshold's application (whether it should be applied to all cars, 'mobile'* or only to 'Connect'* cars)."
 """)
