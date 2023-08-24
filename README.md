@@ -1,5 +1,5 @@
 logo_image = Image.open('GetAround_logo.png')
-
+![](logo_image)
 
 # GetAround deployment project - Delay analysis and car rental price prediction
 
