@@ -16,8 +16,8 @@ Occasionally, individuals who have rented a car through GetAround arrive late fo
 
 The objective of this specific initiative is to establish an online dashboard with the purpose of assisting GetAround in achieving the following:
 
--Assess the significance of the problem./n /
--Model the potential effects of introducing a minimum time interval between successive rentals of the same vehicle on the overall business dynamics.
+* Assess the significance of the problem.
+* Model the potential effects of introducing a minimum time interval between successive rentals of the same vehicle on the overall business dynamics.
 
 ## Results
 Video Presentation
