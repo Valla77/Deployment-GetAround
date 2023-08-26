@@ -21,7 +21,7 @@ The objective of this specific initiative is to establish an online dashboard wi
 
 ## Results
 Video Presentation
-Checkout the project presentation : [Video Presentation](https://acsts-getaround-delay-analysis.herokuapp.com/)
+Checkout the project presentation : [Video Presentation](https://share.vidyard.com/watch/Ad9i8dPRr7KvvbPX5FTCgC?)
 
 [Web dashboard for delay analysis and simulations](https://deployment-getaround-val.streamlit.app/)
 
